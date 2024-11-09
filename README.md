@@ -1,4 +1,4 @@
-*Project Analysis: User Profile - User Persona for the Website*
+# **Project Analysis: User Profile - User Persona for the Website**
 
 User Persona: Sarah, 29, Digital Marketer
 
@@ -17,10 +17,8 @@ The website offers a clean, intuitive navigation structure, with easy access to 
 It includes a portfolio showcasing previous work, giving Sarah the information she’s seeking.
 The design is responsive and adaptable, ensuring a smooth experience across both desktop and mobile devices.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-*Project Analysis: Information Architecture*
+# **Project Analysis: Information Architecture**
 The information architecture (IA) of this website is designed to provide clarity and easy navigation for users. It is structured into several key sections, ensuring each area has a clear purpose while maintaining a simple user flow.
 
 -Home: The main landing page provides a welcoming introduction, a brief overview of the site’s content, and easy access to key sections such as About Me, Education, Skills, and Contact. The use of headers and sub-headers helps the user quickly understand the content they will encounter.
@@ -35,9 +33,8 @@ The information architecture (IA) of this website is designed to provide clarity
 
 The overall information architecture focuses on simplicity and ease of use, with the primary goal of ensuring the user can easily find any information within three clicks.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Project Analysis: Visual Design*
+# **Project Analysis: Visual Design**
 
 The visual design of the website is centered around a modern and minimalist approach to ensure a clean and engaging user experience. Several key decisions were made during the design process to achieve this goal:
 
