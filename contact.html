@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Jordi Barnola</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        // Funció per copiar al porta-retalls
+        function copiar(texto) {
+            navigator.clipboard.writeText(texto).then(function() {
+                // Mostrar notificació de copiat
+                var notificacio = document.createElement("div");
+                notificacio.innerText = "¡Copied!";
+                notificacio.style.position = "fixed";
+                notificacio.style.bottom = "20px";
+                notificacio.style.right = "20px";
+                notificacio.style.backgroundColor = "#28a745";
+                notificacio.style.color = "white";
+                notificacio.style.padding = "10px";
+                notificacio.style.borderRadius = "5px";
+                notificacio.style.fontSize = "16px";
+                document.body.appendChild(notificacio);
+
+                // Eliminar notificació després de 2 segons
+                setTimeout(function() {
+                    notificacio.remove();
+                }, 2000);
+            }).catch(function(err) {
+                console.error('Error: ', err);
+            });
+        }
+
+        // Funció per copiar el correu
+        function copiarEmail() {
+            copiar("jordibarnola15@gmail.com");
+        }
+
+        // Funció per copiar el número de telèfon
+        function copiarTelefon() {
+            copiar("+34 679 212 984");
+        }
+    </script>
+   
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Contact</h1>
+        </header>
+        <section class="content-box large-box">
+            <!-- Correu electrònic amb event per copiar -->
+            <div class="item-box" onclick="copiarEmail()">
+                <img src="Images/gmail_logo.png" alt="Email Icon" class="social-icon"> Email: jordibarnola15@gmail.com
+            </div>
+
+            <!-- Número de telèfon amb event per copiar -->
+            <div class="item-box" onclick="copiarTelefon()">
+                <img src="Images/whats_logo.webp" alt="Phone Icon" class="social-icon"> Phone: +34 679 212 984
+            </div>
+
+            <!-- Missatge "My social media" -->
+            <br>
+            <p><strong>My social media:</strong></p>
+
+            <!-- Xarxes socials -->
+            <div class="item-box">
+                <a href="https://www.linkedin.com/in/jordibarnola">
+                    <img src="Images/linkedin.png" alt="LinkedIn Icon" class="social-icon"> LinkedIn
+                </a>
+            </div>
+            <div class="item-box">
+                <a href="https://github.com/jordibarnola">
+                    <img src="Images/github_logo.png" alt="GitHub Icon" class="social-icon"> GitHub
+                </a>
+            </div>
+            <div class="item-box">
+                <a href="https://twitter.com/jordibarnola">
+                    <img src="Images/twitter_logo.png" alt="Twitter Icon" class="social-icon"> Twitter
+                </a>
+            </div>
+            <br>
+            <p><strong>My CV:</strong></p>
+
+            <!-- Enllaç per descarregar el CV -->
+            <div class="item-box">
+                <a href="CV.pdf" download>
+                     Download CV
+                </a>
+            </div>
+
+        </section>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="studies.html">Studies</a></li>
+                <li><a href="skills.html">Skills</a></li>
+            </ul>
+        </nav>
+    </div>
+</body>
+</html>
+
