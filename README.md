@@ -50,3 +50,7 @@ The visual design of the website is centered around a modern and minimalist appr
 
 The design decisions are intended to promote usability and create a pleasant, intuitive browsing experience, reflecting the professionalism and skills of the individual showcased on the site.
 
+# **Link Figma Project**
+[Figma Project](https://www.figma.com/design/eTFTi6w8iOluptLi7Fp962/CV_web?node-id=0-1&t=c8KsoPOGkvMgQy0Y-1)
+
+
