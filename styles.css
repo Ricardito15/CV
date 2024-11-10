@@ -140,21 +140,18 @@ footer ul li a:hover {
     color: #ffffff;
 }
 
-/* Estils per a les imatges socials */
 .social-icon {
-    width: 20px; /* Ajusta la mida de la icona */
-    height: 20px; /* Manté la relació aspecte */
-    margin-right: 10px; /* Espai entre la imatge i el text */
-    vertical-align: middle; /* Alinea verticalment la imatge amb el text */
+    width: 20px; 
+    height: 20px; 
+    margin-right: 10px; 
+    vertical-align: middle; 
     transition: transform 0.3s ease;
 }
 
-/* Efecte quan el mouse passa per sobre de les icones */
 .item-box a:hover .social-icon {
-    transform: scale(1.1); /* Augmenta lleugerament la mida de la icona al passar el cursor */
+    transform: scale(1.1); 
 }
 
-/* Mantenir el disseny de les icones alineat amb el text */
 .item-box a {
     display: flex;
     align-items: center;
@@ -169,7 +166,7 @@ footer ul li a:hover {
 a {
     display: block;
 }
-/* Estils per la nova secció de Llengües */
+
 .content-box h2 {
     font-size: 1.4rem;
     font-weight: bold;
@@ -187,7 +184,6 @@ a {
     font-size: 1.1rem;
 }
 
-/* Per ajustar el separador entre seccions */
 .large-box {
     padding: 2rem;
     margin-top: 2rem;
