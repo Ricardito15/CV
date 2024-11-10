@@ -1,6 +1,6 @@
 # **Project Analysis: User Profile - User Persona for the Website**
 
-User Persona: Sarah, 29, Digital Marketer
+User Persona: Sara, 29, Digital Marketer
 
 -Demographics: Sarah is a 29-year-old digital marketer living in an urban area. She is tech-savvy and frequently uses websites and applications to boost her professional skills.
 
