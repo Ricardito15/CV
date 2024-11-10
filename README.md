@@ -2,19 +2,19 @@
 
 User Persona: Sara, 29, Digital Marketer
 
--Demographics: Sarah is a 29-year-old digital marketer living in an urban area. She is tech-savvy and frequently uses websites and applications to boost her professional skills.
+-Demographics: Sara is a 29-year-old digital marketer living in an urban area. She is tech-savvy and frequently uses websites and applications to boost her professional skills.
 
--Behavior: Sarah spends a significant amount of time browsing the web for information related to marketing trends, best practices, and case studies. She prefers websites that are visually appealing, easy to navigate, and provide quick access to information.
+-Behavior: Sara spends a significant amount of time browsing the web for information related to marketing trends, best practices, and case studies. She prefers websites that are visually appealing, easy to navigate, and provide quick access to information.
 
--Goals: Sarah is looking for a website that showcases portfolio work, projects, and detailed information about technical skills and career development. She also seeks personalized content that can help her expand her expertise.
+-Goals: Sara is looking for a website that showcases portfolio work, projects, and detailed information about technical skills and career development. She also seeks personalized content that can help her expand her expertise.
 
 -Frustrations: She often gets frustrated with websites that have overwhelming amounts of text or poor navigation that makes it difficult to find key information quickly.
 
--Technology Use: Sarah accesses websites mostly from her laptop but also uses her mobile device when on the go. She prefers clean, minimalist designs that are optimized for mobile devices.
+-Technology Use: Sara accesses websites mostly from her laptop but also uses her mobile device when on the go. She prefers clean, minimalist designs that are optimized for mobile devices.
 How the Website Supports Sarah:
 
 The website offers a clean, intuitive navigation structure, with easy access to sections like education, skills, and contact information.
-It includes a portfolio showcasing previous work, giving Sarah the information she’s seeking.
+It includes a portfolio showcasing previous work, giving Sara the information she’s seeking.
 The design is responsive and adaptable, ensuring a smooth experience across both desktop and mobile devices.
 
 
