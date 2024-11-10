@@ -11,7 +11,7 @@ User Persona: Sara, 29, Digital Marketer
 -Frustrations: She often gets frustrated with websites that have overwhelming amounts of text or poor navigation that makes it difficult to find key information quickly.
 
 -Technology Use: Sara accesses websites mostly from her laptop but also uses her mobile device when on the go. She prefers clean, minimalist designs that are optimized for mobile devices.
-How the Website Supports Sarah:
+How the Website Supports Sara:
 
 The website offers a clean, intuitive navigation structure, with easy access to sections like education, skills, and contact information.
 It includes a portfolio showcasing previous work, giving Sara the information she’s seeking.
